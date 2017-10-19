@@ -69,6 +69,7 @@ p{
 a{color:pink;}
 
 .button {
+    font-family: 'Josefin Sans', sans-serif;
     background-color: blue; /* blue */
     border: none;
     color: white;
